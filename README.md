@@ -14,7 +14,7 @@ Currently working on full-stack projects using Flutter, Laravel, React Native, a
 
 ## 🔗 Connect with me
 - 🌐 GitHub: [mgphone22](https://github.com/mgphone22)
-- 📧 Email: your.email@example.com
+- 📧 Email: mgbhone556@example.com
 
 ## 🚀 Projects Highlights
 - ✅ Air Ticket Booking System (Full Stack App)
