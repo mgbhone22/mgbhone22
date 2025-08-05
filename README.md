@@ -13,7 +13,7 @@ Currently working on full-stack projects using Flutter, Laravel, React Native, a
 - Version Control: Git & GitHub
 
 ## 🔗 Connect with me
-- 🌐 GitHub: [mgphone22](https://github.com/mgphone22)
+- 🌐 GitHub: [mgbhone22](https://github.com/mgphone22)
 - 📧 Email: mgbhone556@example.com
 
 ## 🚀 Projects Highlights
