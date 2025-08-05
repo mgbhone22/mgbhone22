@@ -1,4 +1,4 @@
-# 👋 Hello, I'm mgphone22!
+# 👋 Hello, I'm mgbhone22!
 
 ## 💻 Junior Full Stack & Mobile Developer
 
