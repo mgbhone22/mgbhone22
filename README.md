@@ -23,4 +23,4 @@ Currently working on full-stack projects using Flutter, Laravel, React Native, a
 
 ## 📈 GitHub Stats
 
-![mgphone22's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgphone22&show_icons=true&theme=radical)
+![mgbhone22's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgbhone22&show_icons=true&theme=radical)
