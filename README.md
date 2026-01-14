@@ -1,6 +1,6 @@
-# 👋 Hello, I'm mgbhone22!
+# 👋 Hello, I'm mgbhone556!
 
-## 💻 Junior Full Stack & Mobile Developer
+## 💻 Topper Junior Full Stack & Mobile Developer
 
 Passionate about building real-world applications with modern technologies.  
 Currently working on full-stack projects using Flutter, Laravel, React Native, and Bootstrap.
